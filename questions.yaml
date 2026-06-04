@@ -1,0 +1,241 @@
+questions:
+- question: Which of the following is a strong password?
+  options:
+  - "A. 12345678"
+  - "B. password"
+  - "C. Qw!7#eR9$Lk"
+  - "D. abcdefgh"
+  answer: 2
+
+- question: What does the acronym "VPN" stand for?
+  options:
+  - "A. Virtual Private Network"
+  - "B. Variable Protection Node"
+  - "C. Verified Protected Network"
+  - "D. Virtual Protection Network"
+  answer: 0
+
+- question: Which of the following is an example of malware?
+  options:
+  - "A. Firewall"
+  - "B. Antivirus"
+  - "C. Trojan Horse"
+  - "D. VPN"
+  answer: 2
+
+- question: What is phishing?
+  options:
+  - "A. A type of firewall"
+  - "B. A method of data encryption"
+  - "C. An attempt to trick users into revealing personal information"
+  - "D. A secure way to transfer files"
+  answer: 2
+
+- question: What is the primary purpose of a firewall?
+  options:
+  - "A. To back up data"
+  - "B. To increase internet speed"
+  - "C. To monitor employee activity"
+  - "D. To block unauthorized access to or from a network"
+  answer: 3
+
+- question: Which of the following protocols is used to securely browse the web?
+  options:
+  - "A. HTTP"
+  - "B. FTP"
+  - "C. HTTPS"
+  - "D. SMTP"
+  answer: 2
+
+- question: What kind of attack involves overwhelming a system with traffic?
+  options:
+  - "A. Brute Force"
+  - "B. Man-in-the-middle"
+  - "C. DDoS"
+  - "D. SQL Injection"
+  answer: 2
+
+- question: Which of the following is used to encrypt email messages?
+  options:
+  - "A. SSL"
+  - "B. TLS"
+  - "C. PGP"
+  - "D. FTP"
+  answer: 2
+
+- question: What does "2FA" stand for in cybersecurity?
+  options:
+  - "A. Two-Factor Authentication"
+  - "B. Two-Faced Algorithm"
+  - "C. Two-Firewall Authorization"
+  - "D. Trusted File Access"
+  answer: 0
+
+- question: Which one of these is NOT a best practice for cybersecurity?
+  options:
+  - "A. Keeping software up to date"
+  - "B. Using the same password for all accounts"
+  - "C. Using antivirus software"
+  - "D. Avoiding suspicious email attachments"
+  answer: 1
+
+- question: What is the full form of HTTPS?
+  options:
+  - "A. HyperText Transfer Protocol Secure"
+  - "B. Hyperlink Transfer Protocol Secure"
+  - "C. HighText Transfer Protocol Service"
+  - "D. HyperText Transmit Protocol Standard"
+  answer: 0
+
+- question: Which of these is a form of social engineering?
+  options:
+  - "A. Phishing"
+  - "B. DDoS"
+  - "C. SQL Injection"
+  - "D. Port Scanning"
+  answer: 0
+
+- question: A software that self-replicates and spreads without user intervention is called?
+  options:
+  - "A. Virus"
+  - "B. Trojan"
+  - "C. Worm"
+  - "D. Spyware"
+  answer: 2
+
+- question: What is the main purpose of encryption?
+  options:
+  - "A. To compress data"
+  - "B. To protect data from unauthorized access"
+  - "C. To delete sensitive data"
+  - "D. To increase download speed"
+  answer: 1
+
+- question: Which one of these is NOT a strong authentication method?
+  options:
+  - "A. Biometrics"
+  - "B. Password"
+  - "C. Security Questions"
+  - "D. Username"
+  answer: 3
+
+- question: What is the term for malicious software disguised as legitimate software?
+  options:
+  - "A. Spyware"
+  - "B. Worm"
+  - "C. Troja
+   Horse"
+  - "D. Rootkit"
+  answer: 2
+
+- question: Which of the following is a common target of cyber attacks?
+  options:
+  - "A. Personal information"
+  - "B. Financial data"
+  - "C. Login credentials"
+  - "D. All of the above"
+  answer: 3
+
+- question: What is the goal of a ransomware attack?
+  options:
+  - "A. Steal data silently"
+  - "B. Destroy hardware"
+  - "C. Lock the victim's data and demand payment"
+  - "D. Monitor user activity"
+  answer: 2
+
+- question: Which port is typically used for HTTPS traffic?
+  options:
+  - "A. 21"
+  - "B. 80"
+  - "C. 443"
+  - "D. 23"
+  answer: 2
+
+- question: Which is a secure way to manage multiple passwords?
+  options:
+  - "A. Write them in a notebook"
+  - "B. Save in browser"
+  - "C. Use a password manager"
+  - "D. Use the same password everywhere"
+  answer: 2
+
+- question: What does a digital certificate help with?
+  options:
+  - "A. User identity verification"
+  - "B. Data compression"
+  - "C. Virus scanning"
+  - "D. Increasing internet speed"
+  answer: 0
+
+- question: Which tool is commonly used for network packet analysis?
+  options:
+  - "A. Nmap"
+  - "B. Wireshark"
+  - "C. Metasploit"
+  - "D. Nessus"
+  answer: 1
+
+- question: What is the role of an antivirus?
+  options:
+  - "A. Increase RAM speed"
+  - "B. Protect from malware"
+  - "C. Provide internet access"
+  - "D. Manage passwords"
+  answer: 1
+
+- question: What does the term "zero-day" refer to?
+  options:
+  - "A. A system with no internet"
+  - "B. A newly discovered vulnerability not yet patched"
+  - "C. A backup system"
+  - "D. A free security software"
+  answer: 1
+
+- question: What is multi-factor authentication (MFA)?
+  options:
+  - "A. Using one password"
+  - "B. Using a firewall and antivirus"
+  - "C. Using two or more types of authentication"
+  - "D. Scanning for malware frequently"
+  answer: 2
+
+- question: What is a botnet?
+  options:
+  - "A. A single malware-infected machine"
+  - "B. A collection of internet-connected devices infected and controlled by malware"
+  - "C. A firewall rule set"
+  - "D. A virtual private server"
+  answer: 1
+
+- question: What is a brute-force attack?
+  options:
+  - "A. Guessing passwords by trying all possible combinations"
+  - "B. A physical attack on servers"
+  - "C. An encrypted communication"
+  - "D. Blocking a port"
+  answer: 0
+
+- question: What is the purpose of a honeypot in cybersecurity?
+  options:
+  - "A. Store passwords"
+  - "B. Deceive attackers by acting as a vulnerable system"
+  - "C. Boost server performance"
+  - "D. Analyze encryption"
+  answer: 1
+
+- question: What does the CIA triad in cybersecurity stand for?
+  options:
+  - "A. Cybersecurity, Integrity, Access"
+  - "B. Confidentiality, Integrity, Availability"
+  - "C. Confidentiality, Identification, Authentication"
+  - "D. Certification, Integrity, Availability"
+  answer: 1
+
+- question: Which of the following is considered a physical security measure?
+  options:
+  - "A. Firewall"
+  - "B. Password policy"
+  - "C. Biometric scanner"
+  - "D. Antivirus"
+  answer: 2

@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "test",
+            "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+            "high_score": 0
+        },
+        {
+            "username": "smile",
+            "password": "2dc0269fa54d269a87536810ec453cb095b4b92f45e63826a21dff1c2e76f169",
+            "high_score": 0
+        },
+        {
+            "username": "lahari",
+            "password": "893491096f5b5738e4471d452cb59f85751558c323d7c1d5131f2e85a4c28aae",
+            "high_score": 0
+        },
+        {
+            "username": "sneha",
+            "password": "94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71",
+            "high_score": 0
+        }
+    ]
+}
